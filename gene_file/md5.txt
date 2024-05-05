@@ -1,0 +1,4 @@
+d43402aac44feb5517659dee06825161  dd5_v5.0_T2T.gene.filter_rename.cds.fa.gz
+a5fed41625697cb0198cc1104103042b  dd5_v5.0_T2T.gene.filter_rename.protein.fa.gz
+5d84c54f4bd11d9b050b1b27e9e2af57  dd5_v5.0_T2T_gene.filter_rename.sorted.gff3.gz
+c4ca3585ef233723ca36997b3e5ad79e  dd5_v5.0_T2T_gene.filter_rename.sorted.gff3.idx.gz
