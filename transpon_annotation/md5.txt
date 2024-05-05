@@ -1,0 +1,3 @@
+e5a746b64ca0d7cd9ddc82d3e44a9f24  dd5_v5.0_T2T_genome.EDTA.TEanno.gff3.gz
+c2fb6903e45a52c6d0a78708eb3ae6b2  dd5_v5.0_T2T_genome.EDTA.TEanno.gff3.idx.gz
+23933b5cc7990515b97990969c8707a0  dd5_v5.0_T2T_genome.EDTA.intact.gff3.gz
