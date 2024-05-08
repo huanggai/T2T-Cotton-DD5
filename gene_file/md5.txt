@@ -1,0 +1,7 @@
+bf6c4603ed6bb1fb4b42967b5b9b8f75  dd5_v5.0_T2T_gene.fix4_rename.gff3.gz
+c0b036f2b0a75ee3bd1b6bf5ab1624a6  dd5_v5.0_T2T_gene.fix4_rename_cds.fa.gz
+de84ded6e98aedac436c32a0c7d1b8e5  dd5_v5.0_T2T_gene.fix4_rename_exon.fa.gz
+6e1ea14507ff8fc3b569aca62669a2b5  dd5_v5.0_T2T_gene.fix4_rename_gene.fa.gz
+556e0c3b6f308bc8985d48c57437ba5b  dd5_v5.0_T2T_gene.fix4_rename_pep.fa.gz
+46c52c77021024c99779a81af898d2ad  dd5_v5.0_T2T_gene.fix4_rename_pre_trans.fa.gz
+67bebe0462f1c3b9d51e3bb30334a7c1  dd5_v5.0_T2T_gene.fix4_rename_trans.fa.gz
